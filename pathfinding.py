@@ -6,7 +6,7 @@ Cada elemento A i,j pode ser:
 # – que representa paredes; e
 C – que representa a posição inicial do personagem. 
 
-O arquivo caminho3.csv tem que ser salvo na mesma pasta em que esse para que os algoritmos funcionem.'''
+O arquivo caminho2.csv tem que ser salvo na mesma pasta em que esse para que os algoritmos funcionem.'''
 
 import csv
 from math import sqrt
