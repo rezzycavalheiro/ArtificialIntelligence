@@ -4,7 +4,9 @@ Cada elemento A i,j pode ser:
 0 – que representa a saída do labirinto;
 1 – que representa um caminho livre para o personagem;
 # – que representa paredes; e
-C – que representa a posição inicial do personagem. '''
+C – que representa a posição inicial do personagem. 
+
+O arquivo caminho3.csv tem que ser salvo na mesma pasta em que esse para que os algoritmos funcionem.'''
 
 import csv
 from math import sqrt
